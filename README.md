@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="45" alt="CSS3" title="CSS3"/>
   
   <!-- Frontend -->
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript"/>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" title="TypeScript"/>
@@ -43,7 +44,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" title="Node.js"/>
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain-wordmark.svg" height="45" alt="Laravel" title="Laravel"/>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" title="PHP"/>
 
@@ -69,13 +69,16 @@
 ###
 
 <p align="left">
-<a href="mailto:wilsonfrederique3@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"/>
-</a> 
-<a href="https://wilsonfrederique.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7" height="35" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/votreprofil" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
-</a>
+  <a href="mailto:wilsonfrederique3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"/>
+  </a> 
+  <a href="https://wilsonfrederique.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" height="35" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/wilson-frederique-500b82352/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/walle.fred" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook"/>
+  </a>
 </p>
