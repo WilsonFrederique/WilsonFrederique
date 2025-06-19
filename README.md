@@ -1,6 +1,6 @@
-<h1 align="center">👨💻 Wilson Frederique | Développeur Full-Stack</h1>
+<h1 align="center">👋 Bonjour, je suis Wilson Frederique</h1>
 
-<h3 align="center">"Architecte de solutions web performantes et sécurisées"</h3>
+<h3 align="center">Développeur Full-Stack passionné par la création d'applications web performantes et innovantes.</h3>
 
 ###
 
@@ -9,10 +9,10 @@
 ###
 
 <p align="left">
-• 🚀 <strong>Expertise Full-Stack</strong> : 3 ans d'expérience en développement web<br>
-• 🔐 <strong>Spécialiste sécurité</strong> : Applications conformes OWASP<br>
-• ☁️ <strong>Cloud Native</strong> : Déploiement sur AWS/Netlify/Vercel<br>
-• ⚡ <strong>Fun fact</strong> : 98% de mon code est écrit entre minuit et 4h du matin
+• 🚀 Développeur Full-Stack avec une passion pour les architectures robustes
+• 📚 Actuellement en perfectionnement sur les bonnes pratiques de sécurité applicative
+• 🎯 Objectif : Devenir expert en solutions cloud-native
+• ⚡ Fun fact : Je transforme le café en code fonctionnel
 </p>
 
 ###
@@ -33,13 +33,21 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="Next.js" title="Next.js"/>
   
+  <!-- Mobile -->
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="Flutter" title="Flutter"/>
+  
   <!-- Backend -->
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" title="Node.js"/>
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="45" alt="Laravel" title="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="45" alt="Laravel" title="Laravel" style="filter: invert(14%) sepia(89%) saturate(4615%) hue-rotate(340deg) brightness(99%) contrast(101%)"/>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" title="PHP"/>
+  
+  <!-- API -->
+  <img width="15" />
+  <img src="https://img.icons8.com/color/48/000000/api.png" height="45" alt="REST API" title="REST API"/>
   
   <!-- Base de données -->
   <img width="15" />
@@ -47,7 +55,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="45" alt="PostgreSQL" title="PostgreSQL"/>
   
-  <!-- Outils -->
+  <!-- Web -->
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="45" alt="HTML5" title="HTML5"/>
   <img width="15" />
