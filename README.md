@@ -78,6 +78,7 @@
   </a>
   <a href="https://www.linkedin.com/in/wilson-frederique-500b82352/" target="_blank">
     <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" height="35" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/walle.fred" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook"/>
