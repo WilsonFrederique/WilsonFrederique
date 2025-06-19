@@ -9,10 +9,10 @@
 ###
 
 <p align="left">
-• 🚀 Développeur Full-Stack avec une passion pour les architectures robustes
-• 📚 Actuellement en perfectionnement sur les bonnes pratiques de sécurité applicative
-• 🎯 Objectif : Devenir expert en solutions cloud-native
-• ⚡ Fun fact : Je transforme le café en code fonctionnel
+  • 🚀 <strong>Développeur Full-Stack</strong> spécialisé dans les architectures robustes<br><br>
+  • 🔐 <strong>Expertise sécurité</strong> : Perfectionnement continu sur les bonnes pratiques OWASP<br><br>
+  • ☁️ <strong>Vision cloud</strong> : Objectif certification AWS/Google Cloud<br><br>
+  • ⚡ <strong>Trait caractéristique</strong> : Alchimiste café/code (ratio 1L → 1000 lignes)
 </p>
 
 ###
