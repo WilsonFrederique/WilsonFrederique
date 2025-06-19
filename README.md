@@ -22,6 +22,12 @@
 ###
 
 <div align="left">
+  <!-- Web -->
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="45" alt="HTML5" title="HTML5"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="45" alt="CSS3" title="CSS3"/>
+  
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript"/>
   <img width="15" />
@@ -32,34 +38,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="Vue.js" title="Vue.js"/>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="Next.js" title="Next.js"/>
-  
-  <!-- Mobile -->
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="Flutter" title="Flutter"/>
-  
+
   <!-- Backend -->
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" title="Node.js"/>
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="45" alt="Laravel" title="Laravel" style="filter: invert(14%) sepia(89%) saturate(4615%) hue-rotate(340deg) brightness(99%) contrast(101%)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain-wordmark.svg" height="45" alt="Laravel" title="Laravel"/>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" title="PHP"/>
-  
+
   <!-- API -->
   <img width="15" />
   <img src="https://img.icons8.com/color/48/000000/api.png" height="45" alt="REST API" title="REST API"/>
+  
+  <!-- Mobile -->
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="Flutter" title="Flutter"/>
   
   <!-- Base de données -->
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="MySQL" title="MySQL"/>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="45" alt="PostgreSQL" title="PostgreSQL"/>
-  
-  <!-- Web -->
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="45" alt="HTML5" title="HTML5"/>
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="45" alt="CSS3" title="CSS3"/>
 </div>
 
 ###
