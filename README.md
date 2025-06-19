@@ -1,6 +1,12 @@
-<h1 align="center">👋 Bonjour, je suis Wilson Frederique</h1>
+<h1 align="left">👋 Bonjour, je suis Wilson Frederique</h1>
 
-<h3 align="center">Développeur Full-Stack passionné par la création d'applications web performantes et innovantes.</h3>
+<h3 align="left">🚀 Développeur Full-Stack spécialisé dans les solutions web haute performance | <a href="https://wilsonfrederique.netlify.app/" target="_blank">Voir mon portfolio</a></h3>
+
+<h3 align="left">Développeur Full-Stack passionné par l'innovation web 
+<a href="https://wilsonfrederique.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-PORTFOLIO-black?style=flat&logo=netlify" height="24" alt="Portfolio"/>
+</a>
+</h3>
 
 ###
 
