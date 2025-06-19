@@ -35,10 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" title="TypeScript"/>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" title="React"/>
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="Vue.js" title="Vue.js"/>
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="Next.js" title="Next.js"/>
 
   <!-- Backend -->
   <img width="15" />
@@ -50,10 +46,6 @@
   <!-- API -->
   <img width="15" />
   <img src="https://img.icons8.com/color/48/000000/api.png" height="45" alt="REST API" title="REST API"/>
-  
-  <!-- Mobile -->
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="Flutter" title="Flutter"/>
   
   <!-- Base de données -->
   <img width="15" />
