@@ -1,6 +1,6 @@
 <h1 align="left">👋 Bonjour, je suis Wilson Frederique</h1>
 
-<h3 align="left">🚀 Développeur Full-Stack spécialisé dans les solutions web haute performance | <a href="https://wilsonfrederique.netlify.app/" target="_blank">Voir mon portfolio</a></h3>
+<h3 align="left">🚀 Développeur Full-Stack spécialisé dans les solutions web haute performance | <a href="https://portfolio-wilson.netlify.app/" target="_blank">Voir mon portfolio</a></h3>
 
 ###
 
@@ -73,7 +73,7 @@
   <a href="mailto:wilsonfrederique3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"/>
   </a> 
-  <a href="https://wilsonfrederique.netlify.app/" target="_blank">
+  <a href="https://portfolio-wilson.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" height="35" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/wilson-frederique-500b82352/" target="_blank">
