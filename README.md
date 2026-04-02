@@ -12,10 +12,10 @@
   <tr>
     <td width="60%">
       <p align="left">
-        • 🚀 Développeur Full-Stack avec une passion pour les architectures robustes <br><br>
-        • 📚 Montée en compétences sur les bonnes pratiques OWASP <br><br>
-        • 🎯 Objectif : Devenir expert en solutions cloud-native <br><br>
-        • ⚡ Fun fact : Je transforme le café en code fonctionnel <br><br>
+        • Développeur Full-Stack avec une passion pour les architectures robustes <br><br>
+        • Montée en compétences sur les bonnes pratiques OWASP <br><br>
+        • Objectif : Devenir expert en solutions cloud-native <br><br>
+        • Fun fact : Je transforme le café en code fonctionnel <br><br>
       </p>
     </td>
     <td>
