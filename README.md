@@ -1,6 +1,6 @@
 <h1 align="left">👋 Bonjour, je suis Wilson Frederique</h1>
 
-<h3 align="left">🚀 Développeur Full-Stack spécialisé dans les solutions web haute performance | <a href="https://portfolio-wilson.netlify.app/" target="_blank">Voir mon portfolio</a></h3>
+<h3 align="left">Développeur Full-Stack spécialisé dans les solutions web haute performance | <a href="https://portfolio-wilson.netlify.app/" target="_blank">Voir mon portfolio</a></h3>
 
 ###
 
